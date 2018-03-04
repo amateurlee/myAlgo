@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 # !/env/python
+# @auther: mjli
+# @date: 20180303
 
 class Node:
     def __init__(self, data):
