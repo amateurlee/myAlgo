@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# !/env/python
+# @auther: mjli
+# @date:
+
+
 class Node:
     def __init__(self, data=None, left=None, right=None):
         self.data = data
